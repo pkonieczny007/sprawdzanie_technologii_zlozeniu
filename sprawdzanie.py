@@ -1,4 +1,4 @@
-#nieaktualne => użyj 2.py potem na wyniku wynik.py
+#nieaktualne =>użyj 2.py potem na wyniku wynik.py
 
 import pandas as pd
 
