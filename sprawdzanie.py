@@ -1,3 +1,5 @@
+#nieaktualne => użyj 2.py potem na wyniku wynik.py
+
 import pandas as pd
 
 # Define the file paths for the provided Excel files
