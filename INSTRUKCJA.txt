@@ -1,0 +1,3 @@
+Kolejność:
+sprawdzanie_v.2.0 (lub 2.py)
+wynik.py
